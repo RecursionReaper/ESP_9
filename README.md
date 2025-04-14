@@ -2,8 +2,6 @@
 
 A real-time environmental monitoring dashboard that displays water level, air quality, temperature, and humidity data from sensors connected to a Raspberry Pi 5.
 
-![Dashboard Preview](https://via.placeholder.com/800x450)
-
 ## Project Overview
 
 This project implements a full-stack IoT monitoring solution with a modern web interface. It consists of two main components:
