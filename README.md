@@ -203,9 +203,9 @@ The Raspberry Pi hosts a local web server that displays current sensor readings 
 Our system has been tested extensively for both prediction accuracy and system performance:
 
 ### ML Model Accuracy
-- **RMSE**: 12.4 AQI points
-- **MAE**: 9.7 AQI points
-- **R²**: 0.87
+- **RMSE**: 14.617 AQI points
+- **MAE**: 8.67 AQI points
+- **R²**: 0.995 
 
 ### System Performance
 - API response time: ~200ms
