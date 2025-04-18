@@ -1,7 +1,5 @@
 # Delhi AQI Prediction System
 
-![Delhi AQI Banner](https://i.imgur.com/VlVR3fb.png)
-
 ## 📊 Project Overview
 
 This repository contains a comprehensive Air Quality Index (AQI) prediction and monitoring system for Delhi, combining hardware sensors, machine learning, and mobile applications to provide real-time air quality information and predictions.
